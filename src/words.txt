@@ -1,0 +1,7 @@
+dictionary
+indicatory
+tea spoon
+teaspoon
+FooBar
+foobar
+A-and-R
